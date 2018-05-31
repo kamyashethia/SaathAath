@@ -1,0 +1,66 @@
+This is the rules for the game
+
+Saath Aath
+
+It has two players. player one and player two
+
+The deck:
+Doesn't have any cards below 8, except it has 7 of hearts and 7 of spades
+Order of cards:
+7 of hearts
+7 of SPADES
+Ace of the Hukkum
+King-8 of the hukkum in order
+All other cards Ace-to-8 in order
+
+Player 1 is the player who makes the hukkum
+Player 2 is the other player
+
+To win:
+Player 1 has to make 8 hands
+Player 2 has to make 7 hands
+
+
+How the Hukkum part works and card dealing works:
+Player one is dealt 5 hands in their hand.
+Player two is dealt five hands in their hands.
+
+Player 1 is dealt 5 face down cards
+Player 2 is dealt 5 face down cards
+
+Player one has to make the hukkum (trump card) with the first 5 hands, that they can see.
+Player one also has an option of choosing a face down card, and that will be the hukkum
+
+Player 1 is dealt 5 face up cards
+Player 2 is dealt 5 face up cards
+
+There are 30 cards total, and the came comprises of 15 rounds
+
+Round:
+If it is the first round, Player 1 will play a card.
+if not then whoever won the last round will play a card.
+
+Lets call the player who plays the first card in a round Player A.
+Player A has played a card of suite Suite.
+Player B has to follow these rules:
+- if a player has any of card of the given Suite open, they have to play it.
+- otherwise, they can play any other card from their hands.
+- if a hukkum card is played, you have to respond with a hukkum card.
+- 7 of spades and 7 of hearts is considered hukkum
+
+The winner of a round is decided based on these rules:
+- We consider 7 of spades and 7 of hearts to be of hukkum suite in these rules
+- if two cards of the same suite are played, then the winner is evaluated based on which card is greater
+- if the two cards are of different suites:
+    - if one of those is a hukkum card, the hukkum wins
+    - Otherwise, the player who went first wins
+
+After 15 rounds, we count the number of hands each player has made.
+if they made the number needed, (7 and eight respectively), we say that saath aath is complete
+if not, the player who made more hands is owed hands by the second player in the next round:
+
+Process of oweing:
+- when the cards are dealt and the hukkum is set, but before the game has begun
+- you either let the opponent who is owed the cards swap cards from your hand (the ones visible to you, and the closed ones below)
+- or you can say you will make the hands and give it to your opponent.
+This means, at the end of the game, the owed hands will be subtracted from your wins, and transfered to your opponent
